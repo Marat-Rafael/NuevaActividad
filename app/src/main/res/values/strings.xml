@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NuevaActividad</string>
+    <string name="edit_message">Escrbe su nombre</string>
+    <string name="button_send">Enviar</string>
+    <string name="textview">TextView</string>
+    <string name="hola">Hola !!!</string>
+    <string name="oso">oso</string>
+</resources>
